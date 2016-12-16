@@ -1,12 +1,4 @@
-body {
-	background-color: pink;
-}
 .fondo {
-	background-image: url('../img/fondo1.jpg');
-	width: 100%;
-	height: 200px;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
+	background: url(img_electro.jpg) no-repeat center fixed; 
+  	background-size: cover;
 }
